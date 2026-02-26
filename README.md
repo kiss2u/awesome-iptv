@@ -117,7 +117,7 @@ Applications with support of IPTV streams.
 - [QMPlay2](https://github.com/zaps166/QMPlay2) - A video and audio player which can play most formats and codecs.
 - [WebGrab+Plus](http://www.webgrabplus.com/) - Multi-site incremental XMLTV EPG grabber.
 - [Streamlink](https://streamlink.github.io/index.html) - A command-line utility that extracts streams from various services and pipes them into a video player of choice.
-- [Better-IPTV](https://github.com/mewset/better-iptv) - Crossplatform IPTV player written in Rust and Typescript that handles extremely large (150.000+ channels) without breaking a sweat
+- [Better-IPTV](https://github.com/mewset/better-iptv) - Crossplatform IPTV player written in Rust and Typescript that handles extremely large playlists (150.000+ channels) without breaking a sweat.
 
 #### Android
 
